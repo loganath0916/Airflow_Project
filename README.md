@@ -30,9 +30,9 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline 
 ----
 
 ##SCREENSHOTS:
-![Airflow dag UI](DAG_UI.png)
+![Airflow dag UI](IMAGES/DAG_UI.png)
 
-![Sample_output](output.png)
+![Sample_output](IMAGES/output.png)
 
-![Mysql_db](DB.png)
+![Mysql_db](IMAGES/DB.png)
 
